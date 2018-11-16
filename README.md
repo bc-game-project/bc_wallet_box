@@ -1,16 +1,14 @@
-#bc_wallet_box 
+# bc_wallet_box
 
-是bcgchain维护开发的钱包聚合sdk
+Is the wallet aggregation SDK maintained and developed by the bcgchain
 
-同时支持两种钱包管理模式
+Support both wallet management modes
 
-一种是运行在用户数据中心内部的服务，作为用户端的Agent，提供了本地签名、私钥本地生成等工作，
-确保用户的私钥等敏感信息不会离开用户内网 
+One is the service running inside the user data center. As the Agent of the client, it provides local signature, private key local generation and other work.
+Ensure sensitive information such as the user's private key does not leave the user's Intranet
 
-另一种运行在bc_wallet_box中心服务网络，为应用提供基础服务，
- 
-##钱包API
-##交易API
-##审核API
+Another is running in the bc_wallet_box central service network, providing basic services for applications.
 
-
+# # the wallet API
+# # trading API
+# # audit API
